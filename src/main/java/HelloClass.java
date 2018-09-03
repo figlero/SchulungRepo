@@ -3,7 +3,7 @@ public class HelloClass {
     String hello;
 
     public HelloClass(){
-        hello="Hello World!";
+        hello="Test Me!";
     }
 
     public String getHello() {
